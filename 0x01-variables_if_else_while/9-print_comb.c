@@ -2,7 +2,7 @@
 
 /**
  *
- * main - return all possible combination of single-digit numbers
+ * main - return combination of single-digit numbers
  *
  * Return: Always 0 (Success)
  *
