@@ -18,7 +18,7 @@ int main(void)
 		if (num < 10)
 		{
 			putchar(num + '0');
-		}else
+		} else
 		{
 			putchar(c);
 			c++;
@@ -26,8 +26,4 @@ int main(void)
 	}
 	putchar('\n');
 	return (0);
-}
-		
-	
-			
-	
+}	
