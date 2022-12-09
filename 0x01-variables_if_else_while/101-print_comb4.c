@@ -9,9 +9,9 @@
 
 int main(void)
 {
-	int i;
-	int n;
-	int j;
+	int 'i'
+	int 'n'
+	int 'j'
 
 	for (i = 48; i < 58; i++)
 	{
@@ -26,8 +26,8 @@ int main(void)
 						putchar(i);
 						putchar(n);
 						putchar(j);
-						if (i == 55 && n == 56 && j == 57)
-						{
+						if (i == 55 && n == 56 && j == 5                                                                             7)
+					{
 							break;
 						}
 
