@@ -1,8 +1,7 @@
 #include <stdio.h>
-#include <stdlib.h>
 
 /**
- * main - return number of base 16 in lowercase
+ * main - return numbers of base 16 in lowercase
  *
  * Return: Always 0 (Success)
  *
@@ -26,4 +25,5 @@ int main(void)
 	}
 	putchar('\n');
 	return (0);
-}	
+}
+	
