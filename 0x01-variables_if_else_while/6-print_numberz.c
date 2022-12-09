@@ -2,7 +2,7 @@
 
 /**
  *
- * main - Entry Point
+ * main - returns single number of base 10 starting from 0
  *
  * Return: Always 0 (Success)
  *
