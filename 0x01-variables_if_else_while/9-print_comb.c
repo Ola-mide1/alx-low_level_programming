@@ -2,7 +2,7 @@
 
 /**
  *
- * main - return all possible combination of numbers
+ * main - Entry point
  *
  * Return: Always 0 (Success)
  *
