@@ -1,5 +1,5 @@
 #include "main.h"
-#include < string.h>
+#include <string.h>
 /**
  * _strncpy -> for copying purpose
  * @dest: first param
