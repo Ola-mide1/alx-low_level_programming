@@ -1,10 +1,28 @@
 #include "main.h"
+/**
+ * _strlen - count arrray
+ * @s: array of elements
+ * Return: i
+ */
+
+int _strlen(char *s)
+{
+	unsigned int i;
+
+	i = 0;
+	while (s[i] != '\0') /*Count character of string*/
+	{
+		i++;
+	}
+
+	return (i);
+}
 
 /**
- * str_concat -> string concatinating function
- * @s1: string 1
- * @s2: string 2
- * Return: string 1 + string 2
+ * str_concat - back a pointer to array
+ * @s1: Array 1
+ * @s2: Array 2
+ * Return: Always an array dinamic
  */
 char *str_concat(char *s1, char *s2)
 {
